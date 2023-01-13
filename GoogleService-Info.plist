@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>607280731598-mh0oca144apj6rbudemrqvls7sfc3ihl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.607280731598-mh0oca144apj6rbudemrqvls7sfc3ihl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBYvQT9nBPsm9tHje5Uh7n8r6UaNKrLaIY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>607280731598</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.kallas</string>
+	<key>PROJECT_ID</key>
+	<string>aulafirebird-3580c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aulafirebird-3580c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:607280731598:ios:5b46c0ab3aa63f9e34879f</string>
+</dict>
+</plist>

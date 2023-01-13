@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		23283BFC296A0F56000F3F6C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23283BFB296A0F56000F3F6C /* AppDelegate.swift */; };
 		23283BFE296A0F56000F3F6C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23283BFD296A0F56000F3F6C /* SceneDelegate.swift */; };
-		23283C00296A0F56000F3F6C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23283BFF296A0F56000F3F6C /* ViewController.swift */; };
+		23283C00296A0F56000F3F6C /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23283BFF296A0F56000F3F6C /* HomeViewController.swift */; };
 		23283C03296A0F56000F3F6C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23283C01296A0F56000F3F6C /* Main.storyboard */; };
 		23283C05296A0F5B000F3F6C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23283C04296A0F5B000F3F6C /* Assets.xcassets */; };
 		23283C08296A0F5B000F3F6C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23283C06296A0F5B000F3F6C /* LaunchScreen.storyboard */; };
@@ -18,6 +18,9 @@
 		23B4BE3F296B6822006B207C /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23B4BE3E296B6822006B207C /* Constants.swift */; };
 		23B4BE41296B6F8C006B207C /* UserBusiness.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23B4BE40296B6F8C006B207C /* UserBusiness.swift */; };
 		23B4BE43296B7633006B207C /* UserManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23B4BE42296B7633006B207C /* UserManager.swift */; };
+		23B4BE84296CE956006B207C /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 23B4BE83296CE956006B207C /* GoogleService-Info.plist */; };
+		23B4BE892970CDC6006B207C /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23B4BE882970CDC6006B207C /* LoginViewController.swift */; };
+		23B4BE8B2970D32D006B207C /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23B4BE8A2970D32D006B207C /* RegisterViewController.swift */; };
 		B29ACF9C89A534C3878F6BC8 /* Pods_SwiftArquiteturas.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AC98B4DD9DAADD9C576A959D /* Pods_SwiftArquiteturas.framework */; };
 /* End PBXBuildFile section */
 
@@ -25,7 +28,7 @@
 		23283BF8296A0F56000F3F6C /* SwiftArquiteturas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftArquiteturas.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23283BFB296A0F56000F3F6C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		23283BFD296A0F56000F3F6C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		23283BFF296A0F56000F3F6C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		23283BFF296A0F56000F3F6C /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		23283C02296A0F56000F3F6C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		23283C04296A0F5B000F3F6C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		23283C07296A0F5B000F3F6C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -35,6 +38,9 @@
 		23B4BE3E296B6822006B207C /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		23B4BE40296B6F8C006B207C /* UserBusiness.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserBusiness.swift; sourceTree = "<group>"; };
 		23B4BE42296B7633006B207C /* UserManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserManager.swift; sourceTree = "<group>"; };
+		23B4BE83296CE956006B207C /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		23B4BE882970CDC6006B207C /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		23B4BE8A2970D32D006B207C /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
 		AC98B4DD9DAADD9C576A959D /* Pods_SwiftArquiteturas.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftArquiteturas.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BEDEAFA4C130715CB027E7B6 /* Pods-SwiftArquiteturas.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftArquiteturas.release.xcconfig"; path = "Target Support Files/Pods-SwiftArquiteturas/Pods-SwiftArquiteturas.release.xcconfig"; sourceTree = "<group>"; };
 		EAFDEC46C1D4E623E26AFB49 /* Pods-SwiftArquiteturas.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftArquiteturas.debug.xcconfig"; path = "Target Support Files/Pods-SwiftArquiteturas/Pods-SwiftArquiteturas.debug.xcconfig"; sourceTree = "<group>"; };
@@ -56,6 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				23283BFA296A0F56000F3F6C /* SwiftArquiteturas */,
+				23B4BE83296CE956006B207C /* GoogleService-Info.plist */,
 				23283BF9296A0F56000F3F6C /* Products */,
 				365BEE447DD3F123431F214A /* Pods */,
 				759CAB369AF3D2C4F01ADD26 /* Frameworks */,
@@ -73,6 +80,7 @@
 		23283BFA296A0F56000F3F6C /* SwiftArquiteturas */ = {
 			isa = PBXGroup;
 			children = (
+				23B4BE852970CB8D006B207C /* Controllers */,
 				23B4BE3D296B6809006B207C /* Infrastructure */,
 				23283C0F296A0F65000F3F6C /* Source */,
 				23283C10296A0F79000F3F6C /* API */,
@@ -86,7 +94,6 @@
 			children = (
 				23283BFB296A0F56000F3F6C /* AppDelegate.swift */,
 				23283BFD296A0F56000F3F6C /* SceneDelegate.swift */,
-				23283BFF296A0F56000F3F6C /* ViewController.swift */,
 				23283C01296A0F56000F3F6C /* Main.storyboard */,
 				23283C04296A0F5B000F3F6C /* Assets.xcassets */,
 				23283C06296A0F5B000F3F6C /* LaunchScreen.storyboard */,
@@ -143,6 +150,16 @@
 				23B4BE3E296B6822006B207C /* Constants.swift */,
 			);
 			path = Infrastructure;
+			sourceTree = "<group>";
+		};
+		23B4BE852970CB8D006B207C /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				23283BFF296A0F56000F3F6C /* HomeViewController.swift */,
+				23B4BE882970CDC6006B207C /* LoginViewController.swift */,
+				23B4BE8A2970D32D006B207C /* RegisterViewController.swift */,
+			);
+			path = Controllers;
 			sourceTree = "<group>";
 		};
 		365BEE447DD3F123431F214A /* Pods */ = {
@@ -223,6 +240,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				23283C08296A0F5B000F3F6C /* LaunchScreen.storyboard in Resources */,
+				23B4BE84296CE956006B207C /* GoogleService-Info.plist in Resources */,
 				23283C05296A0F5B000F3F6C /* Assets.xcassets in Resources */,
 				23283C03296A0F56000F3F6C /* Main.storyboard in Resources */,
 			);
@@ -277,7 +295,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				23283C00296A0F56000F3F6C /* ViewController.swift in Sources */,
+				23B4BE892970CDC6006B207C /* LoginViewController.swift in Sources */,
+				23B4BE8B2970D32D006B207C /* RegisterViewController.swift in Sources */,
+				23283C00296A0F56000F3F6C /* HomeViewController.swift in Sources */,
 				23283BFC296A0F56000F3F6C /* AppDelegate.swift in Sources */,
 				23283BFE296A0F56000F3F6C /* SceneDelegate.swift in Sources */,
 				23283C18296A1020000F3F6C /* UserModel.swift in Sources */,
